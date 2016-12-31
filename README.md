@@ -8,7 +8,7 @@ Prerequisites
 • Watchman
 
 Installation 
-• git clone `<https://github.com/hoangnh092185/angular2-taproom2>` this repository
+• git clone `<https://github.com/hoangnh092185/angular2-taproom2>` this repository.
 • `cd angular2-taproom2`
 • `bower install`
 • `gulp build`

@@ -26,4 +26,4 @@ License
 
 Licensed under the GNU General Public License v3.0
 
-Copyright © 2016 Nhat Hoang
+Copyright © 2016 Nhat Hoang and Grey Hildrech

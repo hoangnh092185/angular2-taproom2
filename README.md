@@ -1,6 +1,6 @@
 Taproom
 
-Taproom is a simple browser built in Angular.js and Javascript. The browser allow the user to see the beer list, and able to add type of beer to cart. 
+Taproom is a simple browser written in Angular.js and Javascript. The browser allow the user to see the beer list, and able to add type of beer to cart. 
 
 Prerequisites
 - Node.js
